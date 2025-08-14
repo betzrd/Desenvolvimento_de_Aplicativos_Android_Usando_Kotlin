@@ -3,7 +3,7 @@ fun main() {
 
     var teste: String = "Hello World"
 
-   println(teste)
+    println(teste)
 
     // comentário em uma linha
     /* comentário em várias linhas */
@@ -21,5 +21,6 @@ fun main() {
     * 7) as variáveis são únicas no programa;
     * 8) nomeclatura das variáveis: não pode espaços em branco; caracteres especiais; não é recomendado acentos, palavras reservadas não podem definir uma variável {ex.: var; fun}
     * 9) val: não altera - var: não altera;
-    * 10)*/
+    * 10) número de { que estão abrindo deve ser igual ao número de } que estão fechando;
+    * 11)*/
 }
