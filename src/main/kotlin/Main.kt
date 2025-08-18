@@ -39,5 +39,5 @@ fun main() {
     * 11) String varia o seu armazenamento de acordo com o conteúdo;
     * 12) JVM se encarrega durante a execução de definir o tamanho de um Boolean;
     * 13) quando colocar (Double.) entra nas características do Double;
-    * 14) MIN_VALUE: */
+    * */
 }

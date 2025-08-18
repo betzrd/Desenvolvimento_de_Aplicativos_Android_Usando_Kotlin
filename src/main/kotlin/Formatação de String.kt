@@ -1,6 +1,6 @@
 fun main(){
-    val linguagem = "Kotlin"
-    val caracteristica = "e show!"
+    var linguagem = "Kotlin"
+    var caracteristica = "e show!"
 
     println("$linguagem $caracteristica")
 
