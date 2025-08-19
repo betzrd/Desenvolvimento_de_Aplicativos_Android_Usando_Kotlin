@@ -4,6 +4,5 @@ fun main(){
     var retangulo= base * altura
     println("a area de um retangulo e ${base * altura}")
 
-    /*1) Defini o valor das variáveis base, altura e retâncgulo;
-    * 2)  */
-}
+    // defini o valor das variáveis base, altura e retâncgulo;
+    }
