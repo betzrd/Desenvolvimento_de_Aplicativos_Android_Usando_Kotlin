@@ -26,7 +26,7 @@ fun main() {
     * 12) ctrl + alt + l: para formatar o código;
     * 13) os arquivos não podem ter o mesmo nome;
     * TIPOS DE DADOS:
-    * 1) Boolean: falso (false) ou verdadeiro;
+    * 1) Boolean: falso (false) ou verdadeiro (true);
     * 2) Character: usa com aspas simples e tem apenas uma letra, mas sem restrição;
     * 3) Double e Float: únicos tipos de dados que conseguem aceitar ponto flutuante [ex.: 0,2];
     * 4) Long, Integer, Short e Byte: aceitam apenas números inteiros [sem casa decimal];
