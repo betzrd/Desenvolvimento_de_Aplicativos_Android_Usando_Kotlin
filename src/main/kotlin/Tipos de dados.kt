@@ -11,7 +11,7 @@ fun main() {
     var i: Int = 150
     // variável do tipo inteiro
     var b: Byte = 10
-    // para definir um Byte ou SHort é preciso definir explicitamente
+    // para definir um Byte ou Short é preciso definir explicitamente
     var s: Short = 15
 
     var str: String = "pode crescer indefinidamente"

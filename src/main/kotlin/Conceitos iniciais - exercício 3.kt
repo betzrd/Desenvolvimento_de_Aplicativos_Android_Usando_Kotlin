@@ -16,7 +16,7 @@ fun main(){
     println(++valor)
     println(--valor)
 
-//Resolução ~professor:
+//Resolução professor:
 
     var valor1 = 100
     var valor2 = 10
