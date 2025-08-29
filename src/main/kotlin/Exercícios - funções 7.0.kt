@@ -1,13 +1,21 @@
-fun phrase(frase: String) = println(frase)
-
-fun converter_phrase(frase: String) = println(frase.replace(oldValue = "a", newValue = "x").lowercase())
+fun converterPhrase(frase: String) = println(frase.replace(oldValue = "a", newValue = "x").lowercase())
 
 fun main(){
-    phrase(frase = "A banana muda")
-    var frase = "A banana muda"
-    frase = frase.lowercase()
-    frase = frase.replace(oldValue = "a", newValue = "x")
-    println(frase)
-
-    converter_phrase("independente da frase QUE VOCÊ PASSAR ele ")
+    converterPhrase("independente da frase QUE VOCÊ PASSAR ele ")
 }
+
+/*Resolução professor
+*
+* fun trocaLEtras(str: String) {
+*   println(str.lowercase().replace(oldValue: "a", newValue: "x"))
+*
+*
+* fun lerString () {
+*   print("Informe um texto: ")
+*   val texto = readLine()
+*   trocaLetras(texto.toString())
+* }
+*
+* fun main() {
+*   lerString()
+* }*/

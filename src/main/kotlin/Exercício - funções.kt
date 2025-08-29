@@ -35,3 +35,23 @@ fun main(){
     println(minutos(mi1 = 60, mi2 = horas(h1 = 24, h2 = 730)))
     println(segundos(s1 = 60, s2 = minutos(mi1 = 60, mi2 = horas(h1 = 24, h2 = 730))))
 }
+
+/*Resolução professor:
+* fun ex1(anos: Int) {
+*   val meses = anos * 12
+*   val dias = anos * 365
+*   val horas = dias * 24
+*   val minutos = horas * 60
+*   val segundos = minutos * 60
+*
+*   println("$anos ano(s) corresponde(m) a:")
+*   println("$meses meses")
+*   println("$dias dias")
+*   println("$horas horas")
+*   println("$minutos minutos")
+*   println("$segundos segundos")
+*
+* fun main() {
+*   ex1(anos: 2)
+*
+* */
